@@ -1,1 +1,3 @@
-
+Bug report - 1
+Bug report - 2
+Bug report - 3
